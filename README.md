@@ -7,6 +7,9 @@
 ## Materiały z zajęć
 [https://github.com/daftcode/daftacademy-python_levelup-spring2019](https://github.com/daftcode/daftacademy-python_levelup-spring2019)
 
+## Kontakt
+[python@daftacademy.pl](python@daftacademy.pl)
+
 ## Przygotowanie środowiska pracy przed zajęciami
 ### Instalacja Python 3.7
 Żeby nie tracić czasu w trakcie warsztatu, zależałoby nam żebyście przyszli na zajęcia z zainstalowaną odpowiednią wersją Pythona. Poniżej opisana jest krótka instrukcja instalacji dla najpopularniejszych systemów operacyjnych. 
