@@ -8,7 +8,7 @@
 [https://github.com/daftcode/daftacademy-python_levelup-spring2019](https://github.com/daftcode/daftacademy-python_levelup-spring2019)
 
 ## Kontakt
-[python@daftacademy.pl](python@daftacademy.pl)
+[python@daftacademy.pl](mailto:python@daftacademy.pl)
 
 ## Przygotowanie środowiska pracy przed zajęciami
 ### Instalacja Python 3.7
