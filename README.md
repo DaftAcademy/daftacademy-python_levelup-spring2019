@@ -2,7 +2,7 @@
 ![logo kursu](https://raw.githubusercontent.com/daftcode/daftacademy-python_levelup-spring2019/master/logo.png)
 
 ## Plan zajęć
-![Plan zajęć](https://raw.githubusercontent.com/daftcode/daftacademy-python_levelup-spring2019/master/logo.png)
+![Plan zajęć](https://raw.githubusercontent.com/daftcode/daftacademy-python_levelup-spring2019/master/plan_zajec.jpg)
 
 ## Materiały z zajęć
 [https://github.com/daftcode/daftacademy-python_levelup-spring2019](https://github.com/daftcode/daftacademy-python_levelup-spring2019)
