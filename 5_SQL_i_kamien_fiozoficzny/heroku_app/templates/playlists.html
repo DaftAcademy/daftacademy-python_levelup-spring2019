@@ -1,0 +1,24 @@
+<!doctype html>
+ <table>
+  <tr>
+    <th>Playlist No.</th>
+    <th>Track No.</th>
+    <th>Playlist</th>
+    <th>Track</th>
+    <th>Album</th>
+    <th>Artist</th>
+  </tr>
+  {% for playlist in playlists %}
+    {% set playlist_loop = loop %}
+    {% for track in playlist.tracks|sort(attribute='name') %}
+    <tr>
+      <td>{{ playlist_loop.index }}</td>
+      <td>{{ loop.index }}</td>
+      <td>{{ playlist.name }}</td>
+      <td>{{ track.name }}</td>
+      <td>{{ track.album.title }}</td>
+      <td>{{ track.album.artist.name }}</td>
+    </tr>
+    {% endfor %}
+  {% endfor %}
+</table> 

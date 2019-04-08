@@ -1,0 +1,15 @@
+<!doctype html>
+ <table style="width:100%">
+  <tr>
+    <th>Lp.</th>
+    <th>Title</th>
+    <th>Artist</th>
+  </tr>
+  {% for album in albums %}
+    <tr>
+      <td>{{ loop.index0 }}</td>
+      <td>{{ album.title }}</td>
+      <td>{{ album.artist.name }}</td>
+    </tr>
+  {% endfor %}
+</table> 
